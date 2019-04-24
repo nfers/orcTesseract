@@ -1,2 +1,0 @@
-# orcTesseract
-Biblioteca Tesseract 
